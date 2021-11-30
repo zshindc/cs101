@@ -1,0 +1,18 @@
+CS 101 - Lab02 Worksheet
+
+Name: Zachary Shin
+
+
+1. Describe in your own words what the "half adder" circuit does.
+
+In the "half adder" circuit, the carry output is only true when only both inputs x and y are true. If only either input x or input y are true, then the sum output is true. 
+
+
+2. Describe in your own words what the "full adder" circuit does.
+
+In the "full adder" circuit, the output sum is true only when one of the inputs or carry_in is true or if all inputs are true. 
+The output "carry_out" is only true when any two inputs are true or when all inputs are true. 
+
+3. What did you learn from putting together the ripple carry adder?
+
+All inputs or outputs must be connected within the ripple carry adder in order to find the output sum. Different true inputs on the adders give different sum outputs. 

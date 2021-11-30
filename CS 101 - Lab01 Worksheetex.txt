@@ -1,0 +1,24 @@
+CS 101 - Lab01 Worksheet
+
+Name: Zachary Shin
+
+
+1. How many levels did you complete?  Which level were you the most proud of
+solving, and why?
+
+kuunhhj
+
+
+2. What is one thing that gave you some difficulty?  How did you overcome it?
+
+
+
+
+3. What are two purposes of procedures?  Explain using language that a middle
+school student could understand.
+
+
+
+
+4. What does Lightbot have to do with algorithms and abstraction?  Make the
+connection to what you read in Section 0.4.
